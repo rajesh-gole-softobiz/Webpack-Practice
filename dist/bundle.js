@@ -1,1 +1,1 @@
-console.log(["Apple","Orange","Banana"]);
+(()=>{"use strict";console.log(["Apple","Orange","Banana"])})();
